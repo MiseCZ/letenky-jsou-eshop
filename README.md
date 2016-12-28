@@ -15,3 +15,5 @@ Technicky vzato máte dvě možnosti:
 
 Rozhodl jsem se pokrýt obě. Koneckonců znalosti budete potřebovat shodné.
 
+Hlavně bych chtěl dál ale dohromady informace, které by měl každý vývojář o letenkách vědět.
+
