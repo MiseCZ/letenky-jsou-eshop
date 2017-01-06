@@ -1,6 +1,6 @@
 # Vlastní vývoj
 
-Existuje několik možností, jak začít s vývojem letenkového eshopu. Potřebujete si ale zodpovědět pár základních otázek.
+Existuje několik možností, jak začít s vývojem letenkového e-shopu. Potřebujete si ale zodpovědět pár základních otázek.
 
 ## Jste IATA agentura?
 
