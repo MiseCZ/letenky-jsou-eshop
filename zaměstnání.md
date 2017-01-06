@@ -10,5 +10,5 @@ Vyvíjí a provozuje vlastní e-shop včetně kombinování letů z různých zd
 
 ## Travelport Czech Republic \(Praha\)
 
-Vyvíjí B-B-C e-shop, který dodává agenturám z několika zemí. Kontakt: miroslav.sedlacek@travelportgds.com \(což jsem shodou okolností já\).
+Vyvíjí B2B2C e-shop, který dodává agenturám z několika zemí. Kontakt: miroslav.sedlacek@travelportgds.com \(což jsem shodou okolností já\).
 
