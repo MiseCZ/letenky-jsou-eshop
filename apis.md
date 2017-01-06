@@ -1,6 +1,6 @@
 # APIs - základní představení
 
-Aktuální API, o kterých něco vím. Jde o základní přehled, pro vývoj je nutné znát celou řadu dalších informací. Pokud nejste IATA agentura budete ve výběru omezeni její preferencí tzv. GDS.
+Aktuální API, o kterých něco vím. Jde o základní přehled, pro vývoj je nutné znát celou řadu dalších informací. 
 
 ## Universal API \(UAPI\)
 
@@ -16,13 +16,13 @@ Nadstavba nad UAPI napsaná v node.js, se která usnadňuje komunikaci s UAPI. M
 
 ## Galileo Web Services \(GWS\)
 
-Starší varianta společnosti Travelport. Fakticky jde stejně jako u UAPI o SOAP server, se kterým se komunikuje XMLky. Chybí některé novější vlastnosti UAPI. Dneska už nemá smysl začínat vývoj s tímto začínat.
+Starší varianta společnosti Travelport. Fakticky jde stejně jako u UAPI o SOAP server, se kterým se komunikuje XMLky. Chybí některé novější vlastnosti UAPI. Dneska už nemá smysl vývoj s tímto začínat.
 
 * Dokumentace: [https://developer.travelport.com/app/developer-network/classic-apis/](https://developer.travelport.com/app/developer-network/classic-apis/)
 
 ## GOL API
 
-Nadstavba nad vícero systémy vyvíjená Travelport Czech Republic \(námi\). Integruje GWS, GTA, Travelfusion a některé další. Nad tradičním systémy nabízí i řešení správy rezervací, uživatelských účtů, dealerského prodeje, servisních poplatků a dalších vlastností. Komunikuje se XMLky po http. Hodí se na prozkoumání terénu a šetření vývoje zázemí. K dispozici je i white label mobilní aplikace pro iOS a Android.
+Nadstavba nad vícero systémy vyvíjená Travelport Czech Republic \(námi\). Integruje GWS, GTA, Travelfusion a některé další. Nad tradičním systémy nabízí i řešení správy rezervací, uživatelských účtů, dealerského prodeje, servisních poplatků a dalších vlastností, které stejně budete muset řešit. Komunikuje se XMLky po http. Hodí se na prozkoumání terénu a šetření vývoje zázemí. K dispozici je i white label mobilní aplikace pro iOS a Android.
 
 * Kontakt: martin.brandysky@travelportgds.cz
 
