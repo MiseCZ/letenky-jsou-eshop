@@ -1,6 +1,6 @@
 # APIs - základní představení
 
-Aktuální API, o kterých něco vím. Jde o základní přehled, pro vývoj je nutné znát celou řadu dalších informací. 
+Aktuální API, o kterých něco vím. Jde o základní přehled, pro vývoj je nutné znát celou řadu dalších informací. Pokud nejste IATA agentura budete ve výběru API spolupracovat s vaší partnerskou IATA agenturou.
 
 ## Universal API \(UAPI\)
 
