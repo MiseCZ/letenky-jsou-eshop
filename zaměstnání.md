@@ -6,9 +6,9 @@ Pokud je mi známo, tak většina vývojových týmů hledá vývojáře a možn
 
 ## Kiwi.com \(Brno\)
 
-Vyvíjí a provozuje vlastní eshop včetně kombinování letů z různých zdrojů dat.
+Vyvíjí a provozuje vlastní e-shop včetně kombinování letů z různých zdrojů dat.
 
 ## Travelport Czech Republic \(Praha\)
 
-Vyvíjí B-B-C eshop, který dodává agenturám z několika zemí. Kontakt: miroslav.sedlacek@travelportgds.com \(což jsem shodou okolností já\).
+Vyvíjí B2B2C e-shop, který dodává agenturám z několika zemí. Kontakt: miroslav.sedlacek@travelportgds.com \(což jsem shodou okolností já\).
 
