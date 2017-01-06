@@ -4,7 +4,7 @@ Existuje několik možností, jak začít s vývojem letenkového e-shopu. Potř
 
 ## Jste IATA agentura?
 
-Tato otázka bude důležitá podle toho, jaký zdroj dat pro svůj eshop si vyberete. Pokud si vyberete GDS (viz. další kapitola), je  podstatné si hned zkraje uvědomit, jestli do celého dobrodružství půjdete zcela sami, nebo jestli budete potřebovat partnera.
+Tato otázka bude důležitá podle toho, jaký zdroj dat pro svůj e-shop si vyberete. Pokud si vyberete GDS (viz. další kapitola), je  podstatné si hned zkraje uvědomit, jestli do celého dobrodružství půjdete zcela sami, nebo jestli budete potřebovat partnera.
 
 Pokud IATA agentura nejste nebo nevíte, co to je, budete možná potřebovat partnerství s nějakou takovou IATA agenturou. Aktuálně pracuji na tom, abych zde mohl přímo uvést kontakty na konkrétní lidi, které čekají na právě takové, jako jste vy.
 
