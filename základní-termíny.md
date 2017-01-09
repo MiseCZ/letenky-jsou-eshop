@@ -102,13 +102,65 @@ Poznámka na závěr:
 
 * "Tajemným" kódům se říká \(KLNCQ0B\) Fare basis a obvykle začínají kódem bookovací třídy, kterých se týká.
 
-## Avaliabilita \(a cache\)
+## Availabilita \(a cache\)
 
-## Ocenění
+Dostupnost. Tím se myslí dostupnost bookovacích tříd v letadle. Mluvíme o ní hlavně v souvislosti s GDSy. V nich ji vidíme například takto:
+
+![](/assets/import.png)
+
+Vidíme například, že:
+
+* systém eviduje 9 volných míst v bookovacích třídách J, R, Y, B, H, K, M, L, V, N, Q, S a G na letu BA855
+* systém eviduje 4 volná místa v bookovací třídě D na stejném letu
+* let AA6634 prodáva AA jako operovaný \(před číslem letu je @\) a neprodává úplně všechny třídy stejně
+* na letu QS1096 systém neumí říct počet volných míst, takže pro dostupné třídy vypisuje pouze A
+* třídy U a J mají speciální význam, ale nevím jaký, písmeno C ovšem znamená, že třída je již zavřená.
+
+Co je ještě dobré vědět:
+
+* neplatí, že všichni lidé na celém světě vidí tytéž dostupnosti. Roli může hrát strategie aerolinky vůči trhu nebo to jestli letíte pouze uvedený úsek nebo delší cestu.
+* údaje, které vidíte mohou být různě cachované.
+* i když by dostupnost byla brána přímo z inventárního systému letecké společnosti, pořád to neznamená, že se vám uvedená místa podaří zarezervovat. Klidně vám je totiž může někdo vyfouknout pod nosem.
+* pokud se některé bookovací třídy už nenabízí, neznamená to, že nemohou zase začít. Letecké společnosti místa průběžně doplňují \(a odstraňují\) v souladu s tím, jak si myslí, že nejlépe využijí dané letadlo.
+
+## BSP - zúčtování
+
+Jak to vlastně funguje s placením? Jestliže statisíce cestovních agentur z celého světa prodává letenky stovek leteckých společností znamená to, že si zběsile vystavují faktury každý každému? Ne.
+
+Alespoň v rámci GDS systémů funguje konsolidátor plateb jménem BSP, který pro agentury a letecké společnosti zajišťuje následující:
+
+* všechny agentury platí všechno jemu
+* všem leteckým společnostem platí on
+
+I tento vztah stojí za tím, že vystavovat letenky přes rezervační systém nemůže jen tak někdo, ale právě ony výše zmíněné IATA agentury. Vystavením letenky vzniká závazek agentury vůči BSP a závazek BSP vůči letecké společnosti.
+
+Zároveň existuje celá řada pravidel, podle kterých musí agentury s rezervacemi zacházet, jinak se vystavují riziku takzvaného ADM. A to je prostě pokuta, kterou BSP také vybírá.
+
+## Ocenění a plating carrier
+
+Jak je to ovšem v situaci, že cestujeme s několika leteckými společnostmi. Zopakujme si itinerář uvedený výše:
+
+* BA853 PRGLHR 12.5.2017 6:50
+* BA157 LHRJFK 12.5.2017 9:40
+* BA1511 JFKLHR 28.5.2015 18:05
+* BA854 LHRPRG 29.5.2017 10:35
+
+Z toho zatím vůbec není vidět kolik to bude stát a komu se bude platit. K tomu je potřeba najít dle dostupnosti konkrétní bookovací třídy a potom je ocenit konkrétním tarifem nebo dokonce více tarify.
+
+Výsledek může být třeba takovýto:
+
+* BA853 PRGLHR 12.5.2017 6:50 - třída K, fare basis KLNCQ0B
+* BA157 LHRJFK 12.5.2017 9:40 - třída Q, fare basis QLX4S4T1
+* BA1511 JFKLHR 28.5.2015 18:05- třída Q, fare basis QLX4S4T1
+* BA854 LHRPRG 29.5.2017 10:35- třída K, fare basis KLNCQ0B
+
+Tarify mají základní cenu, ale už víme, že se musí napočítat spoustu dalších složek. Nebudu předstírat, že rozumím, jak se tarify kombinují a taxy vypočítají. Protože je to složité, tak to necháme vypočítat GDS a předpokládejme, že vyšlo 12587CZK.
+
+Nyní může být důležité, komu bude ve finále tato částka přisouzena. Z části o letech víme, že v itineráře může být zahrnuto vícero marktingových leteckých společností a vícero operujících společností. Takzvaný plating carrier je jedna letecká společnost přisouzená ocenění a světe div se, ze jistých okolností to nemusí být ani jedna z nich. Typicky to bude ale ta marketingová společnost, která působí na našem trhu a poletíte s ní delší část cesty. Ani o toto se ale v praxi nebudete moc starat. GDS plating cariera přiřadí spolu s výpočtem ceny.
+
+Cena 12587CZK je ovšem bez service fee a poplatku za platbu. O těchto složkách GDS nic neví a vy si je budete muset připočítat sami, pokud nepoužijete nadstavbu na GDS, která to udělá za vás.
 
 ## Bookabilita \(a cache\)
-
-## Plating Carrier
 
 ## Look2book \(a cache\)
 
