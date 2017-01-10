@@ -1,4 +1,6 @@
-# Základní kameny
+# Základní kameny \(= slovníček\)
+
+Poznámka dopředu: bookování = rezervování. Kdysi jsem se tomu smál, ale už mi to připadá úplně normální.
 
 ## IATA kódy destinací
 
@@ -38,7 +40,7 @@ Není výjimkou, že let je operován pro několik marketingových dopravců, ta
 
 Sice existuje, ale nebude vás až tolik zajímat. Jednak může být i velmi nepravidelný a druhak si lidé mnohem více než podle letového řádu vybírají podle dostupné ceny.
 
-## Segmenty
+## Segmenty a itinerář
 
 Segment je konkrétní úsek cesty, obsahující číslo letu, datum a čas odletu. Zpáteční cesta PRGNYC s přestupem se tak skládá ze čtyř segmentů:
 
@@ -46,6 +48,8 @@ Segment je konkrétní úsek cesty, obsahující číslo letu, datum a čas odle
 * BA157 LHRJFK 12.5.2017 9:40
 * BA1511 JFKLHR 28.5.2015 18:05
 * BA854 LHRPRG 29.5.2017 10:35
+
+Seznamu segmentů se také říká itinerář.
 
 ## Kabiny a bookovací třídy
 
@@ -91,6 +95,7 @@ Co z něj nevidíte:
 * ... že některé tarify umožňují více zavazadel než ostatní.
 * ... že některé letenky lze levně zrušit a jiné nikoliv.
 * ... že některé letenky lze levně změnit a jiné nikoliv.
+* ... že některé typy pasažérů mohou mít při použití těchto tarifů slevu.
 
 A co už vůbec netušíte:
 
@@ -160,9 +165,50 @@ Nyní může být důležité, komu bude ve finále tato částka přisouzena. Z
 
 Cena 12587CZK je ovšem bez service fee a poplatku za platbu. O těchto složkách GDS nic neví a vy si je budete muset připočítat sami, pokud nepoužijete nadstavbu na GDS, která to udělá za vás.
 
-## Bookabilita \(a cache\)
+## Pasažéři, jejich typy a údaje o nich
+
+Základní typy jsou:
+
+* Adult - Tedy dospělí. Normální cestující.
+* Infant - Kojenci, obvykle od 0-1 let. Nemá nárok na sedačku, cestuje na klíně jiné osoby. Obvyklá cena je 10% ceny tarifu, ale není to pravidlem.
+* Child - Dítě, obvykle 2-11 let. Má nárok na sedačku, tarify pro něj někdy obsahují slevu. Někdy ne.
+
+Někdy se setkáte i s:
+
+* Youth - česky obvykle Mládežník. Věk obvykle 12-24.
+* Senior - česky taky Senior. Věk obvykle od 60 let.
+
+Kdybyste chtěli být velcí fajnešmekři, tak se můžete pokusit vyhledávat tarify například pro Poutníky, Novináře Evropského parlamentu nebo Vojenské rekruty. Ale nebudete to dělat.
+
+O každém cestujícím potřebujete vědět:
+
+* oslovení, jméno a příjmení, podle zvyklostí trhu někdy i prostřední jméno
+* pro typy cestujících s věkovým omezením: datum narození
+* nepovinně, pro lety do některých zemí: čísla pasů a související údaje
+* nepovinně, typ a číslo frekvent flyer programů \(= věrnostní karty\)
+
+Celkově vzato je tato sekce obrovsky zjednodušená a vyhnul jsem se celé řadě témat, například jak dostat do letadla dvě osoby se stejným jménem. Ale pro začátek to stačí.
+
+## Bookování a bookabilita \(a cache\)
+
+To že jsme se od destinací dostali až k bookování \(tedy vytvoření rezervace v inventárním systému letecké společnosti\) není ještě výhra. Shrňme si, co k rezervaci potřebujeme a co známe:
+
+* Itinerář cesty
+* Pasažéry a jejich informace
+* Ocenění \(zahrnuje i bookovací třídy, farebasis kódy a plating carriera\)
+
+Z těchto věcí budete potřebovat vytvořit rezervaci a zajímat vás budou dvě věci:
+
+* do kdy je třeba letenku vystavit - teoreticky to může být dřív i později, ale prakticky to bude do půlnoci.
+* že vám letecké segmenty potvrdí letecké společnosti, které je letí - a zde přichází ke slovu bookabilita.
+
+Bookabilita je míra toho, jak často se vám rezervace podaří. Nedělejte si iluze, 100% případů to nebude. Na cestě od vyhledání letů k jejich zarezervování se utkáváte s všelijakými cachemi a také s ostatními cestujícími. Proto se vám může stát, že se rezervace nezdaří a vy budete muset zákazníkovi vysvětlit, že to má zkusit jinak.
 
 ## Look2book \(a cache\)
+
+## Platba
+
+## Eticketing
 
 
 
