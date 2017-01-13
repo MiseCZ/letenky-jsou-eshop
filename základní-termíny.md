@@ -206,7 +206,28 @@ Bookabilita je míra toho, jak často se vám rezervace podaří. Nedělejte si 
 
 ## Look2book \(a cache\)
 
+K bookování se ale váže ještě jeden zádrhel.
+
+Pokud dejme tomu chcete za půl roku cestovat dovolenou na měsíc do jihovýchodní Asie. Tak vás napadne políčit na nejlevnější letenku. Protože jste cestovatel pohodář nesejde vám ani tolik na místě, kam přesně poletíte a odkud se budete vracet a máte třeba 4 destinace, které zvažujete. V úvahu ta pro vás také připadá dejme tomu 20 různých dní pro odlet a klidně tam budete 20-30 dní, když se dost ušetří. Také víte, že ceny se hodně mění, takže to budete hlídat třeba třikrát denně po celý měsíc než se rozhoupete k rezervací.
+
+Ano?
+
+Ne!
+
+Pokud totiž na konci uděláte jednu rezervaci docílíte takzvaného look \(dívat se/vyhledávat\) to book \(rezervovat poměru\) 316000:1 \(pokud správně počítám\). A věřte mi. To je moc. Agentura, která je za váš přístup odpovědná \(vy\), bude muset za nerozumný poměr zaplatit.
+
+Stejného můžete také docílit:
+
+* pokud budete mít hodně navštěvované stránky bez reálných rezervací. 
+* pokud se rozhodnete v rámci zrychlování odpovědi cachovat výsledky dopředu \(pro strýčka příhodu\).
+* pokud se domluvíte s nějakým integrátorem \(momondo, kayak...\).
+* pokud na vaše jinak zcela rozumné stránky někdo zaútočí.
+
+Look2book poměru se není třeba obávat zbytečně moc. Pokud odpovídá jedno vyhledávání reálného zákazníka jednomu dotazu na API, obvykle se do potíží nedostane. Jakmile začnete vymýšlet něco jiného, je třeba se svým plánem svěřit poskytovali API.
+
 ## Platba
+
+
 
 ## Eticketing
 
