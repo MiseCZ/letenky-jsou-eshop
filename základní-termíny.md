@@ -225,9 +225,28 @@ Stejného můžete také docílit:
 
 Look2book poměru se není třeba obávat zbytečně moc. Pokud odpovídá jedno vyhledávání reálného zákazníka jednomu dotazu na API, obvykle se do potíží nedostane. Jakmile začnete vymýšlet něco jiného, je třeba se svým plánem svěřit poskytovali API.
 
-## Platba
+## Platba, platební brány a za kolik
 
+Pokud máte zarezervovanou letenku začíná souboj s časem. Potřebujete ji vystavit. Typicky ještě dnes. Pokud počkáte do druhého dne, o místo v letadle nepřijdete \(v drtivé většině případů\). Nepřijdete ani o své bookovací třídy, ale můžete přijít o tarify, které jste si zarezervovali. Pravděpodobně se také hne převodní kurz, kterým se na vaši měnu převádí tarify a taxy pokud nejsou vypsány ve vaší měně.
 
+Druhý den tak bude vaše letenka pravděpodobně stát trochu jinak. Peníze ovšem od zákazníka chcete obvykle před tím než ji vystavíte. Takže si probereme jaké máme možnosti, jak z něj peníze dostat.
+
+* **Hotově** - předpokládá, že máte místo, kam vám zákazník přinese peníze fyzicky. Poplatky za tento způsob si stanovíte sami.
+* **Převodem** - zákazník vám pošle převodem, což se v aktuální den obvykle nestihne. Poplatky za tento způsob si vyberou vaše banky, ale obvykle se jedná o drobné částky, které se v cenách letenky neuvádějí.
+* **Kartou přes obecnou platební bránu**, například Global payments - jako agentura si budete muset s Global payments domluvit podmínky, za kterých budou pro vás od vašich zákazníků vybírat peníze z platebních karet. Pro ilustraci, řekněme, že tyto podmínky budou 2% z placené částky. O provedené platbě se dozvíte v řádu sekund.
+* **Kartou nebo převodem bránou banky** - některé banky nabízí platební brány, které usnadňují platbu jejím klientům a také zkracují dobu, za kterou se o platbě dozvíte. Platí o nich zhruba totéž, co o předchozích branách. Může se to však i lišit :-\).
+* **Integrátoři platebních metod**, například PayU - také zde platí zhruba totéž, co u obecné platební brány, podmínky se ale mohou lišit ještě podle jednotlivých integrovaných platebních metod.
+* **PayPal a spol** - pro tyto typy plateb je třeba kromě poplatků za transakci, zvážit i způsoby \(a jejich cenu\), kterými dostanene peníze ze svého "účtu" do své kapsy. To může být zatíženo dalšími poplatky.
+* **Ostatní** - nevím o tom, že by se pro platbu za letenky používaly - dobírka, smsky, platby mobilem. Ale mohu s plést. Rád informace doplním, pokud mi je poskytnete.
+
+Pokud použijete některou z online platebních metod, budete muset pravděpodobně svoji aplikaci naučit několik nových kousků:
+
+* **přesměrování na platební bránu** - někdy bývá opepřeno výpočtem různých podpisů nebo dodatečnými inicializačními dotazy.
+* **příjem zákazníka z platební brány zpátky** \(a ověření stavu platby\) - někdy je třeba ověřovat důvěryhodnost dotazů, někdy se výsledek platby předává "bokem" dodatečnými dotazy.
+* **ověření stavu platby, pokud se zákazník z brány nevrátí** - důvodů proč se zákazník nevrátí může být celá hrstka a zdaleka to neznamená, že nezaplatil. Takže ideálně se potřebujete pravidelně dotazovat na výsledek platebních pokusů, o kterých nevíte, jak dopadli. Tedy pokud to brána umožňuje.
+* **navýšení ceny letenky o náklady na platební transakci** - pokud si platební brána strhává dejme tomu výše zmíněná 2% a vaše service fee je dejme tomu 300 Kč, znamená to, že od ceny letenky 15000 korun zákazníka dotujete, místo, abyste z něj měli příjem. Jediný způsob, jak tomu zabránit je zahrnout transakční náklady do struktury ceny letenky.
+
+Problematiku EET jsem zatím ponechal stranou a doplním ji hned, jak budu mít jasněji.
 
 ## Eticketing
 
