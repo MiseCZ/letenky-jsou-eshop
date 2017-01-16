@@ -189,7 +189,7 @@ O každém cestujícím potřebujete vědět:
 
 Celkově vzato je tato sekce obrovsky zjednodušená a vyhnul jsem se celé řadě témat, například jak dostat do letadla dvě osoby se stejným jménem. Ale pro začátek to stačí.
 
-## Bookování a bookabilita \(a cache\)
+## Lokátor, bookování a bookabilita \(a cache\)
 
 To že jsme se od destinací dostali až k bookování \(tedy vytvoření rezervace v inventárním systému letecké společnosti\) není ještě výhra. Shrňme si, co k rezervaci potřebujeme a co známe:
 
@@ -203,6 +203,8 @@ Z těchto věcí budete potřebovat vytvořit rezervaci a zajímat vás budou dv
 * že vám letecké segmenty potvrdí letecké společnosti, které je letí - a zde přichází ke slovu bookabilita.
 
 Bookabilita je míra toho, jak často se vám rezervace podaří. Nedělejte si iluze, 100% případů to nebude. Na cestě od vyhledání letů k jejich zarezervování se utkáváte s všelijakými cachemi a také s ostatními cestujícími. Proto se vám může stát, že se rezervace nezdaří a vy budete muset zákazníkovi vysvětlit, že to má zkusit jinak.
+
+Úspěšně vystavená rezervace má přiřazený lokátor, což v prostředí GDS šestimístný řetězec s písmeny a číslicemi, např. ABC123.
 
 ## Look2book \(a cache\)
 
@@ -248,7 +250,15 @@ Pokud použijete některou z online platebních metod, budete muset pravděpodob
 
 Problematiku EET jsem zatím ponechal stranou a doplním ji hned, jak budu mít jasněji.
 
-## Eticketing
+## \(E\)ticketing a číslo \(e\)ticketu
 
+Eticketingem je myšleno vystavení elektronické letenky z existující rezervace. Dokud nebylo vystavování elektronických letenek běžné, říkalo se ticketing. Nyní jsou situace, kdy eticket vystavit nelze vzácné, a tak se oba termíny míchají dohromady.
 
+Vystavení eticketu je série dotazů, na jejímž konci přibude k vaší rezervaci několik dlouhých čísel, například 01234567789012. Počet čísel závisí například na počtu cestujících nebo počtu segmentů.
+
+Zákazníkům můžete čísla ticketů zabudovat do krásného PDFka spolu se všemi údaji o jejich rezervaci, které jen dokážete nashromáždit, a doporučit jim ho ať si ho pro všechny případy raději vytisknou. Nebo jim můžete napsat, že na letišti bude stejně každého zajímat jen jejich pas. První varianta bude většinou zbytečná, ve druhé se můžete sem tam zmýlit.
+
+## Voidování
+
+Voidováním se myslí zrušení vystavené letenky. Letenky, které jsou vystavené alespoň den dopředu, jde obvykle do půlnoci daného dne beztrestně zrušit. Poté už je letenka zaúčtovaná a vám nezbude než se při jejím rušení řídit poplatky určenými použitými tarify.
 
