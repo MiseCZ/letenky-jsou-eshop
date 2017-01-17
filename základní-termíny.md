@@ -36,6 +36,20 @@ Někdy ale může být let takzvaně "operován", což znamená, že jej ve skut
 
 Není výjimkou, že let je operován pro několik marketingových dopravců, takže můžete na letišti vidět na tabuli různé lety se stejným časem odletu ze stejného terminálu. Je to stejné letadlo.
 
+## Frequent flyer programy a letecké aliance
+
+Je běžné, že letecké společnosti provozují věrnostní programy. Anglicky zvané Frequent flyer.
+
+Kromě toho se některé letecké společnosti spojily do aliancí. Jsou tři:
+
+* Oneworld
+* Sky team
+* Star alliance
+
+GDSům se v rámci těchto aliancí dobře kombinují lety, ale to vám může být jedno. Pro vaše zákazníky naopak může mít význam, že společnosti si v rámci aliance často uznávají věrností body.
+
+Další informace: https://en.wikipedia.org/wiki/Airline\_alliance
+
 ## Letový řád
 
 Sice existuje, ale nebude vás až tolik zajímat. Jednak může být i velmi nepravidelný a druhak si lidé mnohem více než podle letového řádu vybírají podle dostupné ceny.
