@@ -8,10 +8,10 @@
 
 ## Konzultanti
 
-Tuto sekci bych rád rozšířil o další kolegy z dalších vývojových týmů. Neváhejte se mi ozvat, pokud jste si sem našli sami.
+Tuto sekci bych rád rozšířil o další kolegy z dalších vývojových týmů. Neváhejte se mi ozvat, pokud jste si sem cestu našli sami.
 
 * Martin Brandýský - Senior Manager, E-commerce and Information Technology v Travelport Czech Republic
-  * Linkedin: https://www.linkedin.com/in/martin-brand%C3%BDsk%C3%BD-51604472
+  * Linkedin: [https://www.linkedin.com/in/martin-brand%C3%BDsk%C3%BD-51604472](https://www.linkedin.com/in/martin-brand%C3%BDsk%C3%BD-51604472)
   * Email: martin.brandysky@travelportgds.cz
 
 
