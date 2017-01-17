@@ -1,6 +1,6 @@
 # Zaměstnání
 
-Na tuto kapitolu musí dojít, tak si ji pojďme odbýt hned na začátku.
+Na závěr ještě informace, pokud byste se po tom všem rozhodli nepouštět se do letenkového dobrodružství na vlastní pěst.
 
 Pokud je mi známo, tak většina vývojových týmů hledá vývojáře a možná i další role neustále. V této kapitole udržuji seznam mě známých vývojových týmů spolu se základními informacemi. Neváhejte mě informovat pro doplnění či update.
 
