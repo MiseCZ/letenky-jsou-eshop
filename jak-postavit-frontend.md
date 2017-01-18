@@ -19,6 +19,24 @@ Jak vidíte budete od zákazníka hned zkraje potřebovat celou řadu informací
 
 ## Výsledky vyhledávání
 
+Mohou vypadat třeba takto:
+
+![](/assets/GOL-výsledky-vyhledávání-D3.png)
+
+Důležité informace jsou:
+
+* **Čísla letů** - Některé frontendy je v této fázi za důležité nepovažují a nezobrazují je.
+* **Routing** - Přes jaká města a letiště se letí. Různé frontendy se informaci o přestupních místech snaží zmenšovat.
+* **Datum, čas a doby** - Je třeba si vybrat, jak naložit s informacemi o datu a času odletu a přistání. Jak zákazníka upozornit, pokud někde cestuje či zůstává přes půlnoc. A jestli mu pomoci s výpočtem, jak dlouho cestuje či přestupuje.
+* **Letecká společnost** - Víme, že každý segment má svoji marketingovou společnost a může mít i odlišného operujícího dopravce \(zde označeno óčkem "O"\). Přesto dost frontendů zobrazuje pouze jedno logo dopravce.
+* **Cena letenky** - V zásadě je třeba se rozhodnou, zda zobrazuji cenu za všechny cestující dohromady nebo nějak zvlášť.
+
+Důležité ovládací prvky:
+
+* **Varianty letu** - Zde je vidět select box na odletu v "15:10", který umožňuje vybrat jinou variantu letu tam \(za stejnou cenu\). Některé frontendy tuto volbu nabízejí dvoukrokově \(po stisknutí tlačítka Vybrat let\). Nebo varianty rovnou roznásobují \(GDS je nabízí spojeně\) a zobrazují více nabídek pod sebou. Toto je jedno z těch větší a důležitějších rozhodnutí.
+* **Filtry a řazení** - Vzhledem k tomu, že na řadu vyhledávání budete nabízet opravdu hodně výsledků \(protože třeba na cestu z Prahy do Londýna lze vytvořit asi tak milión kombinací s přestupy po celé Evropě\). Je skoro nezbytné nabídnout zákazníkům nějaké nástroje, jak s hromadou výsledků pracovat.
+* **Další informace** - Řadě cestujícím nebudou strohé informace o letu stačit a budou potřebovat další. Cestující na dovolenou budou potřebovat vědět, kolik je v ceně zavazadel. Lidé, kteří v zahraničí pracují nebo studují, budou zase chtít vědět, jestli u zpáteční letenky mohou levně změnit datum návratu. A fajnšmekři budou třeba chtít znát typ letadla, kterým poletí. Nebo si přečíst detailní znění tarifů. Je na vás kolika tlačítky a ikonkami nabídku ověsíte. Pro některé informace, budete ale muset pokládat dodateční dotazy na server.
+
 ## Informace o cestujících
 
 ## Další služby
