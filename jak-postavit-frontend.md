@@ -49,7 +49,9 @@ Jde o spíše maximalistickou variantu, kdy se kromě jména a příjmení vybí
 
 Rezervace na přesnou sedačku není k dispozici vždy a vyžadovala by zvláštní proces s vyžádáním mapy letadla a výběrem z volných sedaček. Někdy placených.
 
-Za zvláštní pozornost stojí oslovení, které slouží i k odlišení cestujících se shodnými jmény. Otec a syn mohou být MR a MSTR \(master, [https://en.wikipedia.org/wiki/Master\\_\\(form\\_of\\_address\\)\](https://en.wikipedia.org/wiki/Master\_\(form\_of\_address\)\)\) nebo JR a SR. Je to na složitější vysvětlování pokud používáte API, kde si to musíte ošetřovat sami \(GWS\), a nemusíte to řešit pokud použijete něco chytřejšího \(GOL API\).
+Za zvláštní pozornost stojí oslovení, které slouží i k odlišení cestujících se shodnými jmény. Otec a syn mohou být MR a MSTR \(master\) nebo JR a SR. Je to na složitější vysvětlování pokud používáte API, kde si to musíte ošetřovat sami \(GWS\), a nemusíte to řešit pokud použijete něco chytřejšího \(GOL API\).
+
+[https://en.wikipedia.org/wiki/Master\_\(form\_of\_address\)](https://en.wikipedia.org/wiki/Master_(form_of_address))
 
 ## Další služby
 
