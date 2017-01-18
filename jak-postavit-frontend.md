@@ -45,13 +45,17 @@ Opět příklad:
 
 ![](/assets/GOL-informace-o-cestujících-D3.png)
 
-Jde o spíše maximalistickou variantu, kdy se kromě jména a příjmení vybírají i informace o pasu, věrnostní program a preference ohledně sedačky \(ulička/okénko\) a jídla \(je na to číselník\). V této podobě jsou preference spíše přání než garantovaná služba. 
+Jde o spíše maximalistickou variantu, kdy se kromě jména a příjmení vybírají i informace o pasu, věrnostní program a preference ohledně sedačky \(ulička/okénko\) a jídla \(je na to číselník\). V této podobě jsou preference spíše přání než garantovaná služba.
 
 Rezervace na přesnou sedačku není k dispozici vždy a vyžadovala by zvláštní proces s vyžádáním mapy letadla a výběrem z volných sedaček. Někdy placených.
 
-Za zvláštní pozornost stojí oslovení, které slouží i k odlišení cestujících se shodnými jmény. Otec a syn mohou být MR a MSTR \(master, https://en.wikipedia.org/wiki/Master\_\(form\_of\_address\)\) nebo JR a SR. Je to na složitější vysvětlování pokud používáte API, kde si to musíte ošetřovat sami \(GWS\), a nemusíte to řešit pokud použijete něco chytřejšího \(GOL API\).
+Za zvláštní pozornost stojí oslovení, které slouží i k odlišení cestujících se shodnými jmény. Otec a syn mohou být MR a MSTR \(master, [https://en.wikipedia.org/wiki/Master\\_\\(form\\_of\\_address\\)\](https://en.wikipedia.org/wiki/Master\_\(form\_of\_address\)\)\) nebo JR a SR. Je to na složitější vysvětlování pokud používáte API, kde si to musíte ošetřovat sami \(GWS\), a nemusíte to řešit pokud použijete něco chytřejšího \(GOL API\).
 
 ## Další služby
+
+Mezi běžné služby, které se k letenkám přidávají navíc, patří například pojištění nebo parkování na letišti. Letenková API, ale tyto služby obvykle nenabízí. Můžete tedy být tak kreativní, kolik si seženete dodavatelů služeb.
+
+Implementaci vám dodatečné služby zkomplikují hlavně o vymýšlení, jak služby bookovat pokud možno transakčně \(alespoň trochu\). Dále pak, o chování při částečných selháních, výpadcích a timeoutech. Od určitého objemu návštěvnosti se vám stanou všechny nepříjemné zanedbané kombinace. A věřte, že je to dříve než myslíte.
 
 ## Platba
 
