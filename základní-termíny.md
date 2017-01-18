@@ -2,6 +2,10 @@
 
 Poznámka dopředu: bookování = rezervování. Kdysi jsem se tomu smál, ale už mi to připadá úplně normální.
 
+## IBE
+
+Sice tvrdím, že letenky jsou eshop. Ale obvykle se tomu, co vyvíjíme říká IBE - Internet Booking Engine.
+
 ## IATA kódy destinací
 
 Destinací může být letiště nebo i město, ale také heliporty a železniční nebo autobusové zastávky. Na raritní místa toho pochopitelně mnoho nelétá \(nebo nejezdí, systém občas nabídne i autobus nebo vlak\). Letiště mohou být sdružena pod kód města.
@@ -48,7 +52,7 @@ Kromě toho se některé letecké společnosti spojily do aliancí. Jsou tři:
 
 GDSům se v rámci těchto aliancí dobře kombinují lety, ale to vám může být jedno. Pro vaše zákazníky naopak může mít význam, že společnosti si v rámci aliance často uznávají věrností body.
 
-Další informace: https://en.wikipedia.org/wiki/Airline\_alliance
+Další informace: [https://en.wikipedia.org/wiki/Airline\\_alliance](https://en.wikipedia.org/wiki/Airline\_alliance)
 
 ## Letový řád
 

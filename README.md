@@ -15,9 +15,7 @@ Technicky vzato máte dvě možnosti:
 
 Rozhodl jsem se pokrýt obě. Koneckonců znalosti budete potřebovat shodné.
 
-Hlavně bych chtěl dál ale dohromady informace, které by měl každý vývojář o letenkách vědět.
+Hlavně bych chtěl dál ale dohromady informace, které by měl každý vývojář o letenkách vědět. Ať už je nováček nebo s letenkami už nějakou dobu pracuje \(a má v tom trochu hokej\).
 
 Pokud vám něco nebude jasné, rád informace upřesním či doplním, kontakt na mě: miroslav.sedlacek@travelportgds.cz.
-
-
 

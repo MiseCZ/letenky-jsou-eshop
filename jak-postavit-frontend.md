@@ -17,6 +17,8 @@ Jak vidíte budete od zákazníka hned zkraje potřebovat celou řadu informací
 * **Letecká společnost** - Kromě letecký společností je pro některá API možné používat i kódy leteckých aliancí.
 * **Přímé lety** - mohlo by se zdát, že jde o zbytečný prvek, ale stane se důležitým pokud v systému existuje hodně levných přestupných letů. Pak si už při dotazování potřebujete vynutit, že chcete přímé lety. I když vás pak jejich cena může zaskočit.
 
+U vyhledávacího formuláře byste možná také měli vzít v úvahu, že jej budete chtít umísťovat na více stránek než jen na jednu, napevno integrovanou do vašeho IBE.
+
 ## Výsledky vyhledávání
 
 Mohou vypadat třeba takto:
