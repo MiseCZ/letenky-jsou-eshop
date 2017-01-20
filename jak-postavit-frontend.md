@@ -51,7 +51,7 @@ Rezervace na přesnou sedačku není k dispozici vždy a vyžadovala by zvlášt
 
 Za zvláštní pozornost stojí oslovení, které slouží i k odlišení cestujících se shodnými jmény. Otec a syn mohou být MR a MSTR \(master\) nebo JR a SR. Je to na složitější vysvětlování pokud používáte API, kde si to musíte ošetřovat sami \(GWS\), a nemusíte to řešit pokud použijete něco chytřejšího \(GOL API\).
 
-[https://en.wikipedia.org/wiki/Master\_\(form\_of\_address\)](https://en.wikipedia.org/wiki/Master_(form_of_address))
+[https://en.wikipedia.org/wiki/Master\_\(form\_of\_address\)](https://en.wikipedia.org/wiki/Master_(form_of_address)\)
 
 ## Další služby
 
@@ -59,11 +59,27 @@ Mezi běžné služby, které se k letenkám přidávají navíc, patří např�
 
 Implementaci vám dodatečné služby zkomplikují hlavně o vymýšlení, jak služby bookovat pokud možno transakčně \(alespoň trochu\). Dále pak, o chování při částečných selháních, výpadcích a timeoutech. Od určitého objemu návštěvnosti se vám stanou všechny nepříjemné zanedbané kombinace. A věřte, že je to dříve než myslíte.
 
+## Po rezervaci \(a hlídač\)
+
+Rezervace letenky bohužel nebývá, krátká atomická operace. Typicky položíte dotaz na vytvoření rezervace, systém si ji u sebe založí a potom začne ověřovat, jestli vám opravdu potvrdí jednotlivé segmenty letu. Obvykle na to potřebujete další dotazy, abyste se finálního stavu dopátrali.
+
+Někdy to stihnete v řádu sekund, někdy musíte zákazníka u browseru držet málem minuty. A zákazník může browser samozřejmě kdykoliv zavřít. Už z toho důvodu doporučuji zakládat rezervace nejprve ve vaší databázi a teprve poté v systému, který používáte. Dále budete potřebovat nějakého hlídače, který bude pravidelně kontrolovat stav rezervací, u kterých neznáte finální stav.
+
+My rozlišujeme pět základních stavů:
+
+* Pending - rezervace vzniká
+* Active - rezervace byla úspěšně vytvořena
+* Issued - rezervace byla úspěšně ticketována
+* Cancelled - rezervace byla zrušena
+* Unsuccessful - rezervaci se nepodařilo úspěšně vytvořit
+
 ## Platba
 
-## Po rezervaci
+O variantách, jak platit jsem se rozepsal v kapitole Základní kameny. Pro realizaci IBE bych doporučil jen jednu drobnost. Nemíchat dohromady "stav rezervace" a "stav platby". Nám se osvědčilo držet tyto dvě informace odděleně.
 
 ## Eticketing
 
+Ne vždy budete eticketovat automaticky. Pokud bude zákazník platit například hotově na pobočce vaší agentury \(nebo agentury, se kterou spolupracujete\), bude letenky vystavovat pravděpodobně letenkář, který bude peníze přijímat. Tuto situaci vám ošetří výše zmíněný hlídač. Zrovna tak, jako situaci, kdy letenkář naopak z nějakého důvodu vaši úspěšnou rezervaci zruší.
 
+Naopak eticketovat budete v případě, že zákazník úspěšně absolvuje procházku přes online platební bránu. Další detaily k tomu najdete v kapitole Základní kameny.
 
