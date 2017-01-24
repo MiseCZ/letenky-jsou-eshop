@@ -52,7 +52,7 @@ Kromě toho se některé letecké společnosti spojily do aliancí. Jsou tři:
 
 GDSům se v rámci těchto aliancí dobře kombinují lety, ale to vám může být jedno. Pro vaše zákazníky naopak může mít význam, že společnosti si v rámci aliance často uznávají věrností body.
 
-Další informace: [https://en.wikipedia.org/wiki/Airline\\_alliance](https://en.wikipedia.org/wiki/Airline\_alliance)
+Další informace: [https://en.wikipedia.org/wiki/Airline\_alliance](https://en.wikipedia.org/wiki/Airline_alliance "https://en.wikipedia.org/wiki/Airline_alliance")
 
 ## Letový řád
 
