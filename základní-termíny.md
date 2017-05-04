@@ -52,7 +52,7 @@ Kromě toho se některé letecké společnosti spojily do aliancí. Jsou tři:
 
 GDSům se v rámci těchto aliancí dobře kombinují lety, ale to vám může být jedno. Pro vaše zákazníky naopak může mít význam, že společnosti si v rámci aliance často uznávají věrností body.
 
-Další informace: [https://en.wikipedia.org/wiki/Airline\_alliance](https://en.wikipedia.org/wiki/Airline_alliance "https://en.wikipedia.org/wiki/Airline_alliance")
+Další informace: [https://en.wikipedia.org/wiki/Airline\_alliance](https://en.wikipedia.org/wiki/Airline_alliance "https://en.wikipedia.org/wiki/Airline\_alliance")
 
 ## Letový řád
 
@@ -97,7 +97,7 @@ Vidíte z něj:
 
 * Tarifů vidíte 18. Dalších 32 jsem si nechal pro sebe.
 * Všechny tarify patří společnosti Lufthansa \(LH\)
-* Cena tarifu \(tedy bez  se pohybuje od 959CZK do 13384CZK.
+* Cena tarifu \(tedy bez tax\) se pohybuje od 959CZK do 13384CZK.
 * Všechny tarify jsou zpáteční \(bílé R\).
 * Tarify jsou označeny "tajemnými" kódy \(KLNCQ0B\).
 * Tarify jsou určeny pro několik bookovacích tříd: K, L, T, S.
@@ -143,7 +143,7 @@ Co je ještě dobré vědět:
 
 * neplatí, že všichni lidé na celém světě vidí tytéž dostupnosti. Roli může hrát strategie aerolinky vůči trhu nebo to jestli letíte pouze uvedený úsek nebo delší cestu.
 * údaje, které vidíte mohou být různě cachované.
-* i když by dostupnost byla brána přímo z inventárního systému letecké společnosti, pořád to neznamená, že se vám uvedená místa podaří zarezervovat. Klidně vám je totiž může někdo vyfouknout pod nosem.
+* i když by se dostupnost brala přímo z inventárního systému letecké společnosti, pořád to neznamená, že se vám uvedená místa podaří zarezervovat. Klidně vám je totiž může někdo vyfouknout pod nosem.
 * pokud se některé bookovací třídy už nenabízí, neznamená to, že nemohou zase začít. Letecké společnosti místa průběžně doplňují \(a odstraňují\) v souladu s tím, jak si myslí, že nejlépe využijí dané letadlo.
 
 ## BSP - zúčtování
@@ -179,7 +179,7 @@ Výsledek může být třeba takovýto:
 
 Tarify mají základní cenu, ale už víme, že se musí napočítat spoustu dalších složek. Nebudu předstírat, že rozumím, jak se tarify kombinují a taxy vypočítají. Protože je to složité, tak to necháme vypočítat GDS a předpokládejme, že vyšlo 12587CZK.
 
-Nyní může být důležité, komu bude ve finále tato částka přisouzena. Z části o letech víme, že v itineráře může být zahrnuto vícero marktingových leteckých společností a vícero operujících společností. Takzvaný plating carrier je jedna letecká společnost přisouzená ocenění a světe div se, ze jistých okolností to nemusí být ani jedna z nich. Typicky to bude ale ta marketingová společnost, která působí na našem trhu a poletíte s ní delší část cesty. Ani o toto se ale v praxi nebudete moc starat. GDS plating cariera přiřadí spolu s výpočtem ceny.
+Nyní může být důležité, komu bude ve finále tato částka přisouzena. Z části o letech víme, že v itineráři může být zahrnuto vícero marketingových leteckých společností a vícero operujících společností. Takzvaný plating carrier je jedna letecká společnost přisouzená danému ocenění. A světe div se, za jistých okolností to nemusí být ani jedna z nich. Typicky to bude ale ta marketingová společnost, která působí na našem trhu a poletíte s ní delší část cesty. Ani o toto se ale v praxi nebudete moc starat. GDS plating carriera přiřadí spolu s výpočtem ceny.
 
 Cena 12587CZK je ovšem bez service fee a poplatku za platbu. O těchto složkách GDS nic neví a vy si je budete muset připočítat sami, pokud nepoužijete nadstavbu na GDS, která to udělá za vás.
 
@@ -196,14 +196,14 @@ Někdy se setkáte i s:
 * Youth - česky obvykle Mládežník. Věk obvykle 12-24.
 * Senior - česky taky Senior. Věk obvykle od 60 let.
 
-Kdybyste chtěli být velcí fajnešmekři, tak se můžete pokusit vyhledávat tarify například pro Poutníky, Novináře Evropského parlamentu nebo Vojenské rekruty. Ale nebudete to dělat.
+Kdybyste chtěli být velcí fajnšmekři, tak se můžete pokusit vyhledávat tarify například pro Poutníky, Novináře Evropského parlamentu nebo Vojenské rekruty. Ale nebudete to dělat.
 
 O každém cestujícím potřebujete vědět:
 
-* oslovení, jméno a příjmení, podle zvyklostí trhu někdy i prostřední jméno
+* oslovení, jméno, příjmení a podle zvyklostí trhu někdy i prostřední jméno
 * pro typy cestujících s věkovým omezením: datum narození
 * nepovinně, pro lety do některých zemí: čísla pasů a související údaje
-* nepovinně, typ a číslo frekvent flyer programů \(= věrnostní karty\)
+* nepovinně, typ a číslo frequent flyer programů \(= věrnostní karty\)
 
 Celkově vzato je tato sekce obrovsky zjednodušená a vyhnul jsem se celé řadě témat, například jak dostat do letadla dvě osoby se stejným jménem. Ale pro začátek to stačí.
 
@@ -234,7 +234,7 @@ Ano?
 
 Ne!
 
-Pokud totiž na konci uděláte jednu rezervaci docílíte takzvaného look \(dívat se/vyhledávat\) to book \(rezervovat poměru\) 316000:1 \(pokud správně počítám\). A věřte mi. To je moc. Agentura, která je za váš přístup odpovědná \(vy\), bude muset za nerozumný poměr zaplatit.
+Pokud totiž na konci uděláte jednu rezervaci docílíte takzvaného look \(dívat se/vyhledávat\) to book \(rezervovat\) poměru 316000:1 \(pokud správně počítám - 4 \* 4 \* 20 \* 11 \* 3 \* 30\). A věřte mi. To je moc. Agentura, která je za váš přístup odpovědná \(vy\), bude muset za nerozumný poměr zaplatit.
 
 Stejného můžete také docílit:
 
@@ -247,7 +247,7 @@ Look2book poměru se není třeba obávat zbytečně moc. Pokud odpovídá jedno
 
 ## Platba, platební brány a za kolik
 
-Pokud máte zarezervovanou letenku začíná souboj s časem. Potřebujete ji vystavit. Typicky ještě dnes. Pokud počkáte do druhého dne, o místo v letadle nepřijdete \(v drtivé většině případů\). Nepřijdete ani o své bookovací třídy, ale můžete přijít o tarify, které jste si zarezervovali. Pravděpodobně se také hne převodní kurz, kterým se na vaši měnu převádí tarify a taxy pokud nejsou vypsány ve vaší měně.
+Pokud máte zarezervovanou letenku, začíná souboj s časem. Potřebujete ji vystavit. Typicky ještě dnes. Pokud počkáte do druhého dne, o místo v letadle nepřijdete \(v drtivé většině případů\). Nepřijdete ani o své bookovací třídy, ale můžete přijít o tarify, které jste si zarezervovali. Pravděpodobně se také hne převodní kurz, kterým se na vaši měnu převádí tarify a taxy pokud nejsou vypsány ve vaší měně.
 
 Druhý den tak bude vaše letenka pravděpodobně stát trochu jinak. Peníze ovšem od zákazníka chcete obvykle před tím než ji vystavíte. Takže si probereme jaké máme možnosti, jak z něj peníze dostat.
 
@@ -257,24 +257,24 @@ Druhý den tak bude vaše letenka pravděpodobně stát trochu jinak. Peníze ov
 * **Kartou nebo převodem bránou banky** - některé banky nabízí platební brány, které usnadňují platbu jejím klientům a také zkracují dobu, za kterou se o platbě dozvíte. Platí o nich zhruba totéž, co o předchozích branách. Může se to však i lišit :-\).
 * **Integrátoři platebních metod**, například PayU - také zde platí zhruba totéž, co u obecné platební brány, podmínky se ale mohou lišit ještě podle jednotlivých integrovaných platebních metod.
 * **PayPal a spol** - pro tyto typy plateb je třeba kromě poplatků za transakci, zvážit i způsoby \(a jejich cenu\), kterými dostanene peníze ze svého "účtu" do své kapsy. To může být zatíženo dalšími poplatky.
-* **Ostatní** - nevím o tom, že by se pro platbu za letenky používaly - dobírka, smsky, platby mobilem. Ale mohu s plést. Rád informace doplním, pokud mi je poskytnete.
+* **Ostatní** - nevím o tom, že by se pro platbu za letenky používaly - dobírka, smsky, platby mobilem. Ale mohu se plést. Rád informace doplním, pokud mi je poskytnete.
 
 Pokud použijete některou z online platebních metod, budete muset pravděpodobně svoji aplikaci naučit několik nových kousků:
 
 * **přesměrování na platební bránu** - někdy bývá opepřeno výpočtem různých podpisů nebo dodatečnými inicializačními dotazy.
 * **příjem zákazníka z platební brány zpátky** \(a ověření stavu platby\) - někdy je třeba ověřovat důvěryhodnost dotazů, někdy se výsledek platby předává "bokem" dodatečnými dotazy.
-* **ověření stavu platby, pokud se zákazník z brány nevrátí** - důvodů proč se zákazník nevrátí může být celá hrstka a zdaleka to neznamená, že nezaplatil. Takže ideálně se potřebujete pravidelně dotazovat na výsledek platebních pokusů, o kterých nevíte, jak dopadli. Tedy pokud to brána umožňuje.
+* **ověření stavu platby, pokud se zákazník z brány nevrátí** - důvodů, proč se zákazník nevrátí může být celá hrstka a zdaleka to neznamená, že nezaplatil. Takže ideálně se potřebujete pravidelně dotazovat na výsledek platebních pokusů, o kterých nevíte, jak dopadly. Tedy pokud to brána umožňuje.
 * **navýšení ceny letenky o náklady na platební transakci** - pokud si platební brána strhává dejme tomu výše zmíněná 2% a vaše service fee je dejme tomu 300 Kč, znamená to, že od ceny letenky 15000 korun zákazníka dotujete, místo, abyste z něj měli příjem. Jediný způsob, jak tomu zabránit je zahrnout transakční náklady do struktury ceny letenky.
 
 Problematiku EET jsem zatím ponechal stranou a doplním ji hned, jak budu mít jasněji.
 
 ## \(E\)ticketing a číslo \(e\)ticketu
 
-Eticketingem je myšleno vystavení elektronické letenky z existující rezervace. Dokud nebylo vystavování elektronických letenek běžné, říkalo se ticketing. Nyní jsou situace, kdy eticket vystavit nelze vzácné, a tak se oba termíny míchají dohromady.
+Eticketingem je myšleno vystavení elektronické letenky z existující rezervace. Dokud nebylo vystavování elektronických letenek běžné, říkalo se ticketing. Nyní jsou situace, kdy eticket vystavit nelze, vzácné, a tak se oba termíny míchají dohromady.
 
 Vystavení eticketu je série dotazů, na jejímž konci přibude k vaší rezervaci několik dlouhých čísel, například 01234567789012. Počet čísel závisí například na počtu cestujících nebo počtu segmentů.
 
-Zákazníkům můžete čísla ticketů zabudovat do krásného PDFka spolu se všemi údaji o jejich rezervaci, které jen dokážete nashromáždit, a doporučit jim ho ať si ho pro všechny případy raději vytisknou. Nebo jim můžete napsat, že na letišti bude stejně každého zajímat jen jejich pas. První varianta bude většinou zbytečná, ve druhé se můžete sem tam zmýlit.
+Zákazníkům můžete čísla ticketů zabudovat do krásného PDFka spolu se všemi údaji o jejich rezervaci, které jen dokážete nashromáždit, a doporučit jim ho, ať si ho pro všechny případy raději vytisknou. Nebo jim můžete napsat, že na letišti bude stejně každého zajímat jen jejich pas. První varianta bude většinou zbytečná, ve druhé se můžete sem tam zmýlit.
 
 ## Voidování
 
