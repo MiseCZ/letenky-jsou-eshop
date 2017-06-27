@@ -38,5 +38,9 @@ Integrace zejména low cost leteckých dopravců. Neumožňuje ale takovou kontr
 
 * Dokumentace: [http://xmldocs.travelfusion.com/](http://xmldocs.travelfusion.com/)
 
+## Diagram
+
+![](/assets/diagram-apis.png)
+
 
 
