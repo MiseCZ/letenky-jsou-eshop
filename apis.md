@@ -24,7 +24,7 @@ Starší varianta společnosti Travelport. Fakticky jde stejně jako u UAPI o SO
 
 Nadstavba nad vícero systémy vyvíjená Travelport Czech Republic \(námi\). Integruje GWS, GTA, Travelfusion a některé další. Nad tradičním systémy nabízí i řešení správy rezervací, uživatelských účtů, dealerského prodeje, servisních poplatků a dalších vlastností, které stejně budete muset řešit. Komunikuje se XMLky po http. Hodí se na prozkoumání terénu a šetření vývoje zázemí. K dispozici je i white label mobilní aplikace pro iOS a Android.
 
-* Kontakt: martin.brandysky@travelportgds.cz
+* Dokumentace: https://doc.golibe.com/golapi
 
 ## GTA
 
@@ -41,6 +41,4 @@ Integrace zejména low cost leteckých dopravců. Neumožňuje ale takovou kontr
 ## Diagram
 
 ![](/assets/diagram-apis.png)
-
-
 
