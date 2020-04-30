@@ -17,3 +17,12 @@ Následuje tedy stručné shrnutí informací, které by měl každý vývojář
 
 Pokud vám něco nebude jasné, rád informace upřesním či doplním, kontakt na mě: miroslav.sedlacek@travelportgds.cz.
 
+# Summary
+
+* [Úvod](README.md)
+* [Vlastní vývoj](vlastní-vývoj.md)
+* [APIs](apis.md)
+* [Základní kameny](základní-termíny.md)
+* [Jak postavit frontend](jak-postavit-frontend.md)
+* [Zaměstnání](zaměstnání.md)
+* [Autoři](autoři.md)
